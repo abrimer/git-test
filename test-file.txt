@@ -3,3 +3,5 @@ Test File
 New change A
 
 New change B
+
+New change C
